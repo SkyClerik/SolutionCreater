@@ -14,3 +14,20 @@ H:\Console\SolutionCreater\obj\Debug\net8.0-windows\SolutionCreater.genruntimeco
 H:\Console\SolutionCreater\obj\Debug\net8.0-windows\ref\SolutionCreater.dll
 H:\Console\SolutionCreater\obj\Debug\net8.0-windows\DotnetGenerator.GeneratorForm.resources
 H:\Console\SolutionCreater\obj\Debug\net8.0-windows\SolutionCreater.csproj.GenerateResource.cache
+F:\Console\SolutionCreater dev\SolutionCreater\src\bin\Debug\net8.0-windows\SolutionCreater.exe
+F:\Console\SolutionCreater dev\SolutionCreater\src\bin\Debug\net8.0-windows\SolutionCreater.deps.json
+F:\Console\SolutionCreater dev\SolutionCreater\src\bin\Debug\net8.0-windows\SolutionCreater.runtimeconfig.json
+F:\Console\SolutionCreater dev\SolutionCreater\src\bin\Debug\net8.0-windows\SolutionCreater.dll
+F:\Console\SolutionCreater dev\SolutionCreater\src\bin\Debug\net8.0-windows\SolutionCreater.pdb
+F:\Console\SolutionCreater dev\SolutionCreater\src\obj\Debug\net8.0-windows\SolutionCreater.csproj.GenerateResource.cache
+F:\Console\SolutionCreater dev\SolutionCreater\src\obj\Debug\net8.0-windows\SolutionCreater.GeneratedMSBuildEditorConfig.editorconfig
+F:\Console\SolutionCreater dev\SolutionCreater\src\obj\Debug\net8.0-windows\SolutionCreater.AssemblyInfoInputs.cache
+F:\Console\SolutionCreater dev\SolutionCreater\src\obj\Debug\net8.0-windows\SolutionCreater.AssemblyInfo.cs
+F:\Console\SolutionCreater dev\SolutionCreater\src\obj\Debug\net8.0-windows\SolutionCreater.csproj.CoreCompileInputs.cache
+F:\Console\SolutionCreater dev\SolutionCreater\src\obj\Debug\net8.0-windows\SolutionCreater.sourcelink.json
+F:\Console\SolutionCreater dev\SolutionCreater\src\obj\Debug\net8.0-windows\SolutionCreater.dll
+F:\Console\SolutionCreater dev\SolutionCreater\src\obj\Debug\net8.0-windows\refint\SolutionCreater.dll
+F:\Console\SolutionCreater dev\SolutionCreater\src\obj\Debug\net8.0-windows\SolutionCreater.pdb
+F:\Console\SolutionCreater dev\SolutionCreater\src\obj\Debug\net8.0-windows\SolutionCreater.genruntimeconfig.cache
+F:\Console\SolutionCreater dev\SolutionCreater\src\obj\Debug\net8.0-windows\ref\SolutionCreater.dll
+F:\Console\SolutionCreater dev\SolutionCreater\src\obj\Debug\net8.0-windows\DotnetGenerator.Program.resources

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Console\\SolutionCreater\\SolutionCreater.csproj": {}
+    "F:\\Console\\SolutionCreater dev\\SolutionCreater\\src\\SolutionCreater.csproj": {}
   },
   "projects": {
-    "H:\\Console\\SolutionCreater\\SolutionCreater.csproj": {
+    "F:\\Console\\SolutionCreater dev\\SolutionCreater\\src\\SolutionCreater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Console\\SolutionCreater\\SolutionCreater.csproj",
+        "projectUniqueName": "F:\\Console\\SolutionCreater dev\\SolutionCreater\\src\\SolutionCreater.csproj",
         "projectName": "SolutionCreater",
-        "projectPath": "H:\\Console\\SolutionCreater\\SolutionCreater.csproj",
+        "projectPath": "F:\\Console\\SolutionCreater dev\\SolutionCreater\\src\\SolutionCreater.csproj",
         "packagesPath": "C:\\Users\\SkyClerik\\.nuget\\packages\\",
-        "outputPath": "H:\\Console\\SolutionCreater\\obj\\",
+        "outputPath": "F:\\Console\\SolutionCreater dev\\SolutionCreater\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

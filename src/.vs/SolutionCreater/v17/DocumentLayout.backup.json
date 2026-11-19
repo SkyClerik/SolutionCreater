@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Console\\SolutionCreater dev\\SolutionCreater\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCAAD2E-3677-8E92-B9A8-DE501F1EA66E}|SolutionCreater.csproj|f:\\console\\solutioncreater dev\\solutioncreater\\src\\generatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCAAD2E-3677-8E92-B9A8-DE501F1EA66E}|SolutionCreater.csproj|solutionrelative:generatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCAAD2E-3677-8E92-B9A8-DE501F1EA66E}|SolutionCreater.csproj|f:\\console\\solutioncreater dev\\solutioncreater\\src\\solutionbuilderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCAAD2E-3677-8E92-B9A8-DE501F1EA66E}|SolutionCreater.csproj|solutionrelative:solutionbuilderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCAAD2E-3677-8E92-B9A8-DE501F1EA66E}|SolutionCreater.csproj|f:\\console\\solutioncreater dev\\solutioncreater\\src\\solutionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCAAD2E-3677-8E92-B9A8-DE501F1EA66E}|SolutionCreater.csproj|solutionrelative:solutionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeneratorForm.cs",
+              "DocumentMoniker": "F:\\Console\\SolutionCreater dev\\SolutionCreater\\src\\GeneratorForm.cs",
+              "RelativeDocumentMoniker": "GeneratorForm.cs",
+              "ToolTip": "F:\\Console\\SolutionCreater dev\\SolutionCreater\\src\\GeneratorForm.cs",
+              "RelativeToolTip": "GeneratorForm.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAowIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T06:28:56.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SolutionConfig.cs",
+              "DocumentMoniker": "F:\\Console\\SolutionCreater dev\\SolutionCreater\\src\\SolutionConfig.cs",
+              "RelativeDocumentMoniker": "SolutionConfig.cs",
+              "ToolTip": "F:\\Console\\SolutionCreater dev\\SolutionCreater\\src\\SolutionConfig.cs",
+              "RelativeToolTip": "SolutionConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T06:27:33.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SolutionBuilderService.cs",
+              "DocumentMoniker": "F:\\Console\\SolutionCreater dev\\SolutionCreater\\src\\SolutionBuilderService.cs",
+              "RelativeDocumentMoniker": "SolutionBuilderService.cs",
+              "ToolTip": "F:\\Console\\SolutionCreater dev\\SolutionCreater\\src\\SolutionBuilderService.cs",
+              "RelativeToolTip": "SolutionBuilderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T06:23:16.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolutionCreater")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccc85a0a8a2b1f89babfb9b867ee5ceb8a6cf48f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolutionCreater")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolutionCreater")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
